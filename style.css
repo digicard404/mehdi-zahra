@@ -16,7 +16,7 @@ body {
 /* باکس ویدئو */
 .video-box {
     width: 100%;
-    aspect-ratio: 3 / 4;
+    aspect-ratio: 9 / 16;
     overflow: hidden;
     margin: 0 auto;
     display: flex;
