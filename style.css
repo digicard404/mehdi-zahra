@@ -49,6 +49,20 @@ body {
     text-align: center;
 }
 
+.insta-footer {
+  text-align: center;
+  margin-top: 40px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  font-family: 'IRANYekan', sans-serif;
+}
+
+.insta-footer a {
+  text-decoration: none;
+  color: #62754f;
+  font-size: 16px;
+  font-weight: 500;
+}
 /* موبایل‌های کوچک */
 @media (max-width: 380px) {
 
